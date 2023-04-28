@@ -1,5 +1,5 @@
 ## Oi Gente!
 
-Estou me  aprimora em Python
-Back end  developer
+Estou me  aprimorando em Python
+Desenvolvedora Back end
 
