@@ -5,10 +5,7 @@
   <a href="https://www.linkedin.com/in/raniely-paulino-65160123b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <a href="https://github.com/ranielyxs/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=ranielyxs&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/ranielyxs/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranielyxs&layout=compact&langs_count=8&card_width=320" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ranielyxs&show_icons=true&theme=radical" />
 </a>
 
 ## Technologies I use
